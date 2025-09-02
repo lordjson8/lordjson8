@@ -27,11 +27,6 @@ I build clean, high-performance web & mobile apps that scale — with a focus on
 - Prisma, MySQL, Redis, WebSockets (channels)  
 - Firebase (auth, push), Docker, REST & WebSocket APIs
 
-**DevOps & Tools**
-- Git, GitHub Actions, Docker, Heroku, VPS deployments  
-- Testing: PyTest, unit/integration testing, Postman  
-- Monitoring & logs: Sentry/Log aggregators (recommended)
-
 ---
 
 ## 🏆 Highlights / Featured Projects
@@ -51,7 +46,7 @@ I build clean, high-performance web & mobile apps that scale — with a focus on
 ---
 
 ## 📈 GitHub Stats
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
+> Replace `lordjson8` with your GitHub username.
 
 ![Anoumang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordjson8&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordjson8&layout=compact&theme=radical)
@@ -59,10 +54,10 @@ I build clean, high-performance web & mobile apps that scale — with a focus on
 ---
 
 ## 🔗 Quick Links
-- GitHub: `https://github.com/YOUR_GITHUB_USERNAME`  
-- Email: `YOUR_EMAIL`  
-- LinkedIn: `YOUR_LINKEDIN_URL`  
-- Portfolio: `YOUR_PORTFOLIO_URL`  
+- GitHub: `https://github.com/lordjson8`  
+- Email: `lordjson8@gmail.com`  
+- LinkedIn: `...pending.....`  
+- Portfolio: `...pending.......`  
 
 ---
 
