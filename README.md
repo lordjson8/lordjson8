@@ -7,7 +7,7 @@ I build clean, high-performance web & mobile apps that scale — with a focus on
 ---
 
 ## 💼 About Me
-- 🔭 I build modern apps using **React, Next.js, React Native**, and **Django / Spring** backends.  
+- 🔭 I build modern apps using **React, Next.js, React Native**, and **Django** backends.  
 - ⚡ I specialize in **real-time communication**, notifications, and integrating AI features.  
 - 🌱 I enjoy learning system design, improving tooling, and contributing to OSS.  
 - 🎯 I value readable code, automated testing, and fast feedback loops.
@@ -53,8 +53,8 @@ I build clean, high-performance web & mobile apps that scale — with a focus on
 ## 📈 GitHub Stats
 > Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
 
-![Anoumang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Anoumang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordjson8E&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordjson8&layout=compact&theme=radical)
 
 ---
 
