@@ -46,7 +46,6 @@ I build clean, high-performance web & mobile apps that scale — with a focus on
 ---
 
 ## 📈 GitHub Stats
-> Replace `lordjson8` with your GitHub username.
 
 ![Anoumang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordjson8&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordjson8&layout=compact&theme=radical)
