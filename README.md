@@ -1,6 +1,6 @@
 # 👋 Hi — I'm Anoumang fils
 
-**Full-Stack Software Engineer · Real-Time Systems · Open-Source Enthusiast**
+**Full-Stack Software Engineer · Real-Time Systems**
 
 I build clean, high-performance web & mobile apps that scale — with a focus on great UX, resilient backends, and real-time features. I turn complex problems into elegant, production-ready solutions.
 
@@ -18,14 +18,14 @@ I build clean, high-performance web & mobile apps that scale — with a focus on
 
 **Frontend**
 - React, Next.js, React Native  
-- Tailwind CSS, shadcn/ui, hooks (useState, useEffect, useReducer, useMemo)  
-- TanStack Query, Axios, client-side auth patterns
+- Tailwind CSS, shadcn/ui, hooks (useState, useEffect, useReducer, useMemo, useCallback, useReducer, useContext)  
+- TanStack Query, Axios, client-side auth patterns, Redux Toolkit
 
 **Backend**
 - Django, Django REST Framework  
-- Spring Boot (Java)  
+- Symfony (PHP)  
 - Prisma, MySQL, Redis, WebSockets (channels)  
-- Firebase (auth, push), Docker, REST & WebSocket APIs
+- Docker, REST & WebSocket APIs
 
 ---
 
