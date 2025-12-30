@@ -1,75 +1,38 @@
-# 👋 Hi — I'm Anoumang fils
+Hi 👋 My name is Fils Kevin
+===========================
 
-**Full-Stack Software Engineer · Real-Time Systems**
+Full-Stack Developer: React, React Native & Django
+--------------------------------------------------
 
-I build clean, high-performance web & mobile apps that scale — with a focus on great UX, resilient backends, and real-time features. I turn complex problems into elegant, production-ready solutions.
+I build fast and scalable web and mobile applications from concept to deployment. With expertise in both frontend and backend technologies, I create end-to-end solutions using React, Next.js, Symfony, Django REST Framework, and modern DevOps practices.
 
----
+* 🌍  I'm based in Cameroun
+* 🖥️  See my portfolio at [MyPortfolio](http://filskevin.vercel.app/en)
+* ✉️  You can contact me at [anoumangfilskevin@gmail.com](mailto:anoumangfilskevin@gmail.com)
+* 🧠  I'm currently learning Spring Boot, AWS and DevOps
+* 👥  I'm looking to collaborate on Interesting Projects
 
-## 💼 About Me
-- 🔭 I build modern apps using **React, Next.js, React Native**, and **Django** backends.  
-- ⚡ I specialize in **real-time communication**, notifications, and integrating AI features.  
-- 🌱 I enjoy learning system design, improving tooling, and contributing to OSS.  
-- 🎯 I value readable code, automated testing, and fast feedback loops.
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+</p>
 
----
+### Socials
 
-## 🛠 Tech Stack
+<p align="left"> <a href="https://www.github.com/lordjson8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/lordjson8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.x.com/Lordjson9" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="http://www.medium.com/lordjson8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://discord.com/users/lordjson" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/lordjson8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<a href="https://www.github.com/lordjson8" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/lordjson8?logo=github&style=for-the-badge&color=ffffff&labelColor=ffffff" /></a><a href="https://www.x.com/Lordjson9" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Lordjson9?logo=twitter&style=for-the-badge&color=ffffff&labelColor=ffffff"
+/></a>
+### Badges
 
-**Frontend**
-- React, Next.js, React Native  
-- Tailwind CSS, shadcn/ui, hooks (useState, useEffect, useReducer, useMemo, useCallback, useReducer, useContext)  
-- TanStack Query, Axios, client-side auth patterns, Redux Toolkit
+<b>My GitHub Stats</b>
 
-**Backend**
-- Django, Django REST Framework  
-- Symfony (PHP)  
-- Prisma, MySQL, Redis, WebSockets (channels)  
-- Docker, REST & WebSocket APIs
+<a href="http://www.github.com/lordjson8"><img src="https://github-readme-stats.vercel.app/api?username=lordjson8&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=ffffff&hide_border=true&show_icons=true" alt="lordjson8's GitHub stats" /></a>
 
----
+<a href="http://www.github.com/lordjson8"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lordjson8&stroke=ffffff&background=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## 🏆 Highlights / Featured Projects
-> Replace descriptions with real project links and short summaries.
+<a href="https://github.com/lordjson8" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordjson8&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-- **WouriWise** — AI-powered search assistant (Perplexity-style).  
-  *Stack:* React, Next.js, Django, LLM integration, Tailwind.
+<b>Top Repositories</b>
 
-- **Real-Time Multi-Room Chat** — Scalable chat with rooms, presence, and admin notifications.  
-  *Stack:* Django Channels, Redis, React.
-
-- **Push Notification System** — Reliable push + queueing for mobile & web.  
-  *Stack:* Django, Firebase, React Native.
-
-👉 More projects and code in my repositories (link below).
-
----
-
-## 📈 GitHub Stats
-
-![Anoumang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordjson8&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordjson8&layout=compact&theme=radical)
-
----
-
-## 🔗 Quick Links
-- GitHub: `https://github.com/lordjson8`  
-- Email: `lordjson8@gmail.com`  
-- LinkedIn: `...pending.....`  
-- Portfolio: `...pending.......`  
-
----
-
-## ✨ What I bring
-- Practical experience building **end-to-end systems** (frontend → backend → infra).  
-- Strong focus on **reliability** (tests, monitoring) and **developer experience** (clean APIs, docs).  
-- A track record of shipping features from prototype to production.
-
----
-
-## 🤝 Let’s connect
-If you'd like to discuss a project, collaboration, or open-source contribution — hit me up at `YOUR_EMAIL` or open an issue on any of my repos!
-
----
-
-> *“Ship small, learn fast, and make it simple.”* — My dev philosophy
+<div width="100%" align="center"></div><br /><br />
