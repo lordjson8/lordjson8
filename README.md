@@ -61,9 +61,8 @@ Building fast, scalable web and mobile applications from concept to deployment w
 
 ## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lordjson8&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordjson8&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=lordjson8&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=lordjson8&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordjson8&layout=compact&theme=radical)
 
 
 ---
