@@ -30,6 +30,8 @@ Building fast, scalable web and mobile applications from concept to deployment w
 [![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+
 
 ### Backend Development
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -54,20 +56,15 @@ Building fast, scalable web and mobile applications from concept to deployment w
 
 ### Tools & IDEs
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordjson8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordjson8&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=lordjson8&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordjson8&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=lordjson8&theme=tokyonight)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordjson8&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ---
 
